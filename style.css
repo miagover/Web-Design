@@ -1,0 +1,10 @@
+.blockquote {
+    font-size: 15px;
+}
+.stream {
+    background-color:rgb(255, 0, 0);
+    border-radius: 25px;
+}
+nav {
+    background-color: white;
+}
