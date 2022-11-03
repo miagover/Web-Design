@@ -10,6 +10,11 @@
 nav {
     background-color: white;
 }
+
+.navbar a:hover, .dropdown:hover, .dropbtn{
+  background-color:#ff0015;
+  color:white;
+}
 .card {
     border: 0px;
     text-align: center;
