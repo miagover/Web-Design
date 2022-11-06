@@ -15,9 +15,30 @@ nav {
     text-align: center;
 }
 .btn {
-    --bs-btn-hover-bg:rgb(171, 57, 57);
-    --bs-btn-hover-color: white;
+    --bs-btn-hover-bg:rgb(255, 255, 255);
+    --bs-btn-hover-color: rgb(171, 57, 57);
     margin: auto;
-    border: 1px solid rgb(171, 57, 57);
-    color:rgb(171, 57, 57)
+    color:rgb(255, 255, 255);
+    background-color: rgb(171, 57, 57);
 }
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
