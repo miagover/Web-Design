@@ -40,3 +40,12 @@ h2 {
 .banner {
     box-shadow: 0px 0px 10px 10px grey;
 }
+#quotecolumn {
+    width: 60%;
+}
+#imagecolumn {
+    width: 30%;
+}
+#backcover {
+    width: 35vw; height: auto;
+}
